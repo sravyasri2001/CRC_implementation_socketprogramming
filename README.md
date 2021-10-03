@@ -1,1 +1,1 @@
-# CRC_implementation_socketprogramming
+# Cyclic Redundancy Check implementation using socket programming
